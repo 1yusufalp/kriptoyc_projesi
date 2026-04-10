@@ -62,7 +62,7 @@ Projeyi çalıştırmak için:
 
 ```bash
 git clone <repo_link>
-cd kriptosistem-projesi
+cd kriptoyc_projesi
 python main.py
 ```
 
@@ -70,7 +70,6 @@ Gereksinimler:
 
 * Python 3.x
 
-(Opsiyonel kütüphaneler varsa buraya eklenebilir)
 
 ---
 
