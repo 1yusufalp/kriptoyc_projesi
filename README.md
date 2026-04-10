@@ -119,30 +119,6 @@ Anahtar: KEY
 Şifreli metin: XJH...
 ```
 
-(Algoritmaya göre değişir)
-
----
-
-## 🚀 Geliştirme Fikirleri
-
-* GUI (arayüz) ekleme
-* Dosya şifreleme desteği
-* Daha gelişmiş kriptanaliz araçları
-* Modern algoritmaların entegrasyonu
-
----
-
-## 👨‍💻 Katkı
-
-Katkıda bulunmak için:
-
-1. Fork oluştur
-2. Yeni bir branch aç
-3. Değişiklik yap
-4. Pull request gönder
-
----
-
 ## 📄 Lisans
 
 Bu proje eğitim amaçlıdır.
