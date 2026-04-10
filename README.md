@@ -123,19 +123,6 @@ Anahtar: KEY
 
 ---
 
-## ⚠️ Güvenlik Notu
-
-Bu projede kullanılan algoritmalar:
-
-* Eğitim amaçlıdır
-* Modern güvenlik standartlarına uygun değildir
-
-Gerçek uygulamalarda:
-
-* AES, RSA gibi güçlü algoritmalar kullanılmalıdır
-
----
-
 ## 🚀 Geliştirme Fikirleri
 
 * GUI (arayüz) ekleme
