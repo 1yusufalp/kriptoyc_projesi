@@ -118,19 +118,3 @@ Anahtar: KEY
 ```
 Şifreli metin: XJH...
 ```
-
-## 📄 Lisans
-
-Bu proje eğitim amaçlıdır.
-
----
-
-## ✨ Sonuç
-
-Bu proje sayesinde:
-
-* Kriptografinin temellerini öğrenebilir
-* Farklı şifreleme tekniklerini karşılaştırabilir
-* Basit saldırı yöntemlerini deneyimleyebilirsin
-
----
