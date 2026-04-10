@@ -158,7 +158,7 @@ Katkıda bulunmak için:
 
 ## 📄 Lisans
 
-Bu proje eğitim amaçlıdır ve açık kaynak olarak paylaşılabilir.
+Bu proje eğitim amaçlıdır.
 
 ---
 
